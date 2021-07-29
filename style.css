@@ -1,0 +1,11 @@
+body{background-image:url("mars2.jpg");
+background-position: center;
+background-size: cover;
+}
+#mycanvas
+{border-width: 10px;
+background-color: white;
+border-style:ridge;
+}
+
+h1,h4 { color:white !important;}
